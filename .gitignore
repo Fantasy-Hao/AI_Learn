@@ -1,0 +1,14 @@
+/.idea
+
+/xiaotudui/logs
+/xiaotudui/data
+/xiaotudui/vgg16_method?.pth
+
+/d2l/data
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
