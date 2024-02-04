@@ -1,8 +1,12 @@
-/xiaotudui/logs
-/xiaotudui/data
 /xiaotudui/vgg16_method?.pth
+/d2l/d2l-zh-pytorch.pdf
 
-/d2l/data
+logs/
+data/
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
 
 # PyCharm
 .idea/
